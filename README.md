@@ -1,4 +1,4 @@
-Steps to do Socket Programing in windows :-
+# Steps to do Socket Programing in windows :-
 
 Step 1 : Download Library (WS2_32.LIB)  : https://osdn.net/projects/sfnet_hitcrawler/downloads/lib/WS2_32.LIB/
 
@@ -28,7 +28,7 @@ Open Project destination in folder >> "bin" >> "debug" >> Open in cmd / Direct r
 Step 8 : You have completed process !!
  
  
- Other References  :-
+ # Other References  :-
  
  1) https://learn.microsoft.com/en-us/windows/win32/winsock/disconnecting-the-client?source=recommendations
  
