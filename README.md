@@ -1,3 +1,7 @@
+# Link of My youtube video on this steps practical :- 
+https://youtu.be/IxI-HwbvokI
+<pre> If you find this helpful, then please like and subscribe. </pre>
+
 # Steps to do Socket Programing in windows :-
 
 Step 1 : Download Library (WS2_32.LIB)  : https://osdn.net/projects/sfnet_hitcrawler/downloads/lib/WS2_32.LIB/
