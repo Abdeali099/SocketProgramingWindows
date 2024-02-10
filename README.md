@@ -1,5 +1,4 @@
-# Link of My youtube video on this steps practical :- 
-https://youtu.be/IxI-HwbvokI
+# Link of  YouTube video on this steps practical :- [Click Here To See Practical](https://youtu.be/IxI-HwbvokI)
 <pre> If you find this helpful, then please like and subscribe. </pre>
 
 # Steps to do Socket Programing in windows :-
